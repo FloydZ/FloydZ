@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I'm Floyd
 
-<!--
-**FloydZ/FloydZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Publications:
+## 2022
+Andre Esser, Floyd Zweydinger
+[New Time-Memory Trade-Offs for Subset Sum — Improving ISD in Theory and Practice](https://eprint.iacr.org/2022/1329)
 
-Here are some ideas to get you started:
+Andre Esser, Alexander May, and Floyd Zweydinger
+[McEliece needs a Break — Solving McEliece-1284 and Quasi-Cyclic-2918 with Modern ISD](https://eprint.iacr.org/2021/1634) EuroCrypt 2022 [Talk](https://www.youtube.com/watch?v=nkRpkf4efuE) [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 2021
+Alexander May, Floyd Zweydinger
+[Legendre PRF (Multiple) Key Attacks and the Power of Preprocessing](https://eprint.iacr.org/2021/645) CSF 2022 [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides-1.pdf)
+
+Andre Esser, Robert Kübler, Floyd Zweydinger
+[A Faster Algorithm for Finding Closest Pairs in Hamming Metric](https://arxiv.org/abs/2102.02597) FSTTCS 2021 [Talk](https://www.youtube.com/watch?v=yit-XdpXw04) [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides-2.pdf)
