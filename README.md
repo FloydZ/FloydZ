@@ -2,6 +2,10 @@
 
 ### Publications:
 ## 2022
+
+Emanuele Bellini, Jorge Chavez-Saab, Jesús-Javier Chi-Domínguez, Andre Esser, Sorina Ionica, Luis Rivera-Zamarripa, Francisco Rodríguez-Henríquez,Monika Trimoska, Floyd Zweydinger
+[Parallel Isogeny Path Finding with Limited Memory](https://eprint.iacr.org/2022/1464)
+
 Andre Esser, Floyd Zweydinger
 [New Time-Memory Trade-Offs for Subset Sum — Improving ISD in Theory and Practice](https://eprint.iacr.org/2022/1329)
 
