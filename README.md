@@ -12,10 +12,10 @@ Emanuele Bellini, Jorge Chavez-Saab, Jesús-Javier Chi-Domínguez, Andre Esser, 
 [Parallel Isogeny Path Finding with Limited Memory](https://eprint.iacr.org/2022/1464) [Code](https://github.com/TheSIPFDTeam/SIPFD) [Talk](https://www.youtube.com/watch?v=0ycz9MQquZw&list=PL1aGzrAyzO_D-3uKJAxo_080dCLf2NZle&index=10)
 
 Andre Esser, Floyd Zweydinger
-[New Time-Memory Trade-Offs for Subset Sum — Improving ISD in Theory and Practice](https://eprint.iacr.org/2022/1329) EuroCrypt23 [Code](https://github.com/FloydZ/decoding) [Slides](https://informatik.rub.de/wp-content/uploads/2023/05/talk.pdf)
+[New Time-Memory Trade-Offs for Subset Sum — Improving ISD in Theory and Practice](https://eprint.iacr.org/2022/1329) EuroCrypt23 [Code](https://github.com/FloydZ/decoding) [Slides](https://informatik.rub.de/wp-content/uploads/2023/05/talk.pdf) [Talk](https://www.youtube.com/watch?v=L01SOhpSvlA)
 
 Andre Esser, Alexander May, and Floyd Zweydinger
-[McEliece needs a Break — Solving McEliece-1284 and Quasi-Cyclic-2918 with Modern ISD](https://eprint.iacr.org/2021/1634) EuroCrypt 2022 [Talk](https://www.youtube.com/watch?v=nkRpkf4efuE) [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides.pdf) [CODE](https://github.com/FloydZ/decoding)
+[McEliece needs a Break — Solving McEliece-1284 and Quasi-Cyclic-2918 with Modern ISD](https://eprint.iacr.org/2021/1634) EuroCrypt 2022 [Talk](https://www.youtube.com/watch?v=nkRpkf4efuE) [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides.pdf) [Code](https://github.com/FloydZ/decoding)
 
 
 ## 2021
