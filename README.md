@@ -4,7 +4,7 @@
 
 ## 2023
 Andre Esser, Javier Verbel, Floyd Zweydinger, Emanuele Bellini
-[$\texttt{CryptographicEstimators}$: a Software Library for Cryptographic Hardness Estimation ](https://eprint.iacr.org/2023/589) [Code](https://github.com/Crypto-TII/CryptographicEstimators)
+[CryptographicEstimators: a Software Library for Cryptographic Hardness Estimation ](https://eprint.iacr.org/2023/589) [Code](https://github.com/Crypto-TII/CryptographicEstimators)
 
 ## 2022
 
