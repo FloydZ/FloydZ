@@ -22,6 +22,14 @@ Alexander May, Floyd Zweydinger
 Andre Esser, Robert Kübler, Floyd Zweydinger
 [A Faster Algorithm for Finding Closest Pairs in Hamming Metric](https://arxiv.org/abs/2102.02597) FSTTCS 2021 [Talk](https://www.youtube.com/watch?v=yit-XdpXw04) [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides-2.pdf) [Code](https://github.com/FloydZ/NNAlgorithm)
 
+
+# Schemes
+
+I am a co-author of the following signature schemes in the second round 
+of the NIST contest:
+- [LESS](https://github.com/less-sig/LESS)
+- [MIRATH](https://pqc-mirath.org/) merger of [MIRA](https://pqc-mira.org/) and [MiRitH](https://pqc-mirith.org/)
+
 # Conferences:
 
 I served as a subreviewer at the following Conferences:
