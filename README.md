@@ -1,6 +1,4 @@
-### Hi I'm Floyd
-
-### Publications:
+# Publications:
 
 ## 2023
 Andre Esser, Javier Verbel, Floyd Zweydinger, Emanuele Bellini
@@ -23,3 +21,11 @@ Alexander May, Floyd Zweydinger
 
 Andre Esser, Robert Kübler, Floyd Zweydinger
 [A Faster Algorithm for Finding Closest Pairs in Hamming Metric](https://arxiv.org/abs/2102.02597) FSTTCS 2021 [Talk](https://www.youtube.com/watch?v=yit-XdpXw04) [Slides](https://informatik.rub.de/wp-content/uploads/2022/10/Slides-2.pdf) [Code](https://github.com/FloydZ/NNAlgorithm)
+
+# Conferences:
+
+I served as a subreviewer at the following Conferences:
+- [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/)
+- [IndoCrypt 2024](https://setsindia.in/indocrypt2024/indocrypt)
+- [SPACE 2024](https://space2024.cse.iitk.ac.in/)
+- [CRYPTO 2024 Artifacts](https://crypto.iacr.org/2024/callforartifacts.php)
