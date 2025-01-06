@@ -40,3 +40,8 @@ I served as a subreviewer at the following Conferences:
 - [IndoCrypt 2024](https://setsindia.in/indocrypt2024/indocrypt)
 - [SPACE 2024](https://space2024.cse.iitk.ac.in/)
 - [CRYPTO 2024 Artifacts](https://crypto.iacr.org/2024/callforartifacts.php)
+
+# Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=FloydZ&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="FloydZ's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloydZ&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="FloydZ's GitHub Stats" />
