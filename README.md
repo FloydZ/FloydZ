@@ -2,17 +2,21 @@
 
 ## 2024
 
-Andre Esser, Javier Verbel, Floyd Zweydinger, Emanuele Bellini
-[CryptographicEstimators: a Software Library for Cryptographic Hardness Estimation ](https://eprint.iacr.org/2023/589) [Code](https://github.com/Crypto-TII/CryptographicEstimators)
+Andre Esser, Javier Verbel, Z., Emanuele Bellini
+[CryptographicEstimators: a Software Library for Cryptographic Hardness Estimation](https://eprint.iacr.org/2023/589) [Code](https://github.com/Crypto-TII/CryptographicEstimators)
+
+Gora Adj,Stefano Barbero,Emanuele Bellini,Andre Esser,Luis Rivera-Zamarripa,Carlo Sanna,Javier Verbel, Z.
+[MiRitH: Efficient Post-Quantum Signatures from MinRank in the Head](https://eprint.iacr.org/2023/1666) [Code]([https://github.com/Crypto-TII/CryptographicEstimators](https://github.com/Crypto-TII/mirith_nist_submission))
+
 
 ## 2023
 
-Andre Esser, Floyd Zweydinger
+Andre Esser, Z.
 [New Time-Memory Trade-Offs for Subset Sum — Improving ISD in Theory and Practice](https://eprint.iacr.org/2022/1329) EuroCrypt23 [Code](https://github.com/FloydZ/decoding) [Slides](https://informatik.rub.de/wp-content/uploads/2023/05/talk.pdf) [Talk](https://www.youtube.com/watch?v=L01SOhpSvlA)
 
 ## 2022
 
-Emanuele Bellini, Jorge Chavez-Saab, Jesús-Javier Chi-Domínguez, Andre Esser, Sorina Ionica, Luis Rivera-Zamarripa, Francisco Rodríguez-Henríquez,Monika Trimoska, Floyd Zweydinger
+Emanuele Bellini, Jorge Chavez-Saab, Jesús-Javier Chi-Domínguez, Andre Esser, Sorina Ionica, Luis Rivera-Zamarripa, Francisco Rodríguez-Henríquez,Monika Trimoska, Z.
 [Parallel Isogeny Path Finding with Limited Memory](https://eprint.iacr.org/2022/1464) [Code](https://github.com/TheSIPFDTeam/SIPFD) [Talk](https://www.youtube.com/watch?v=0ycz9MQquZw&list=PL1aGzrAyzO_D-3uKJAxo_080dCLf2NZle&index=10)
 
 Andre Esser, Alexander May, and Floyd Zweydinger
@@ -30,7 +34,7 @@ Andre Esser, Robert Kübler, Floyd Zweydinger
 
 I am a co-author of the following signature schemes in the second round 
 of the NIST contest:
-- [LESS](https://github.com/less-sig/LESS)
+- [LESS](https://github.com/less-sig/LESS) [code](https://github.com/less-sig/LESS)
 - [MIRATH](https://pqc-mirath.org/) merger of [MIRA](https://pqc-mira.org/) and [MiRitH](https://pqc-mirith.org/)
 
 # Conferences:
