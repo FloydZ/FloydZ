@@ -40,9 +40,12 @@ of the NIST contest:
 # Conferences:
 
 I served as a subreviewer at the following Conferences:
+- [AsiaCrypt 2025](https://asiacrypt.iacr.org/2025/)
+- [LatinCrypt 2025](https://ciencias.medellin.unal.edu.co/eventos/latincrypt/)
 - [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/)
 - [IndoCrypt 2024](https://setsindia.in/indocrypt2024/indocrypt)
 - [SPACE 2024](https://space2024.cse.iitk.ac.in/)
+- [ISC 2024](https://isc24.cs.gmu.edu/)
 - [CRYPTO 2024 Artifacts](https://crypto.iacr.org/2024/callforartifacts.php)
 
 # Stats
