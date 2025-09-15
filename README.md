@@ -1,4 +1,8 @@
 # Publications:
+## 2025
+
+Luke Beckwith, Andre Esser, Edoardo Persichetti, Paolo Santini, Floyd Zweydinger
+[LESS is Even More: Optimizing Digital Signatures from Code Equivalence](https://eprint.iacr.org/2025/1424) CHES2025 [Code](https://github.com/less-sig/LESS)
 
 ## 2024
 
@@ -6,8 +10,7 @@ Andre Esser, Javier Verbel, Z., Emanuele Bellini
 [CryptographicEstimators: a Software Library for Cryptographic Hardness Estimation](https://eprint.iacr.org/2023/589) [Code](https://github.com/Crypto-TII/CryptographicEstimators)
 
 Gora Adj,Stefano Barbero,Emanuele Bellini,Andre Esser,Luis Rivera-Zamarripa,Carlo Sanna,Javier Verbel, Z.
-[MiRitH: Efficient Post-Quantum Signatures from MinRank in the Head](https://eprint.iacr.org/2023/1666) [Code]([https://github.com/Crypto-TII/CryptographicEstimators](https://github.com/Crypto-TII/mirith_nist_submission))
-
+[MiRitH: Efficient Post-Quantum Signatures from MinRank in the Head](https://eprint.iacr.org/2023/1666) CHES2024
 
 ## 2023
 
